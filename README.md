@@ -27,7 +27,7 @@ I use **AutoHotKey** to control two **secondary** keyboards, one keypad. I also 
 
 ## Files:
 ### [Main Second Keyboard .ahk file]()
-#### [Functions .ahk file]()
+#### [Functions .ahk file](https://github.com/liamsc-net/ahk/blob/main/functions/functions.ahk)
 
 ## "Main" Secondary Keyboard:
 ### Row Explainations:
@@ -41,6 +41,6 @@ I use **AutoHotKey** to control two **secondary** keyboards, one keypad. I also 
 
 ## Important functions:
 
-### [openApp](https://gist.github.com/Liam-s-c/6887263c6f06b19f9950a3b9bd6ab804); Which I use many many times
-### [tippytool](https://gist.github.com/Liam-s-c/d1de6a8df7369eaed4f13e2967b76bac); Which I use for every hotkey
-### [urlShortener](https://gist.github.com/Liam-s-c/d7292aca415635e992418e948383ea20)
+### [openApp](https://github.com/liamsc-net/ahk/blob/main/functions/functions.ahk#L33); Which I use many many times
+### [tippytool](https://github.com/liamsc-net/ahk/blob/main/functions/functions.ahk#L12); Which I use for every hotkey
+### [urlShortener](https://github.com/liamsc-net/ahk/blob/main/functions/functions.ahk#L174)
